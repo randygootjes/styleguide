@@ -1,0 +1,25 @@
+
+{
+  "name": "styleguide",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "randy gootjes",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "grunt-contrib-connect": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-htmlhint": "^0.9.12-fix",
+    "grunt-sass": "^1.1.0"
+  },
+  "dependencies": {
+    "normalize.css": "^4.1.1"
+  }
+}
