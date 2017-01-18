@@ -1,1 +1,9 @@
-style.scss
+// vendor
+@import 'vendor/_normalize.scss';
+
+// global
+@import 'global/_colours.scss';
+@import 'global/typo.scss';
+
+// partials
+@import 'partials/_navigation.scss';

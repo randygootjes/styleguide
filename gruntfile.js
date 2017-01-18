@@ -75,7 +75,7 @@ module.exports = function (grunt) {
                 tasks: []
             },
             css: {
-                files: ['sass/**.scss'],
+                files: ['sass/**'],
                 tasks: ['sass', 'cssmin']
             }
         }
